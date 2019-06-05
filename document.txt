@@ -1,0 +1,3 @@
+https://github.com/thanksraye/show.git
+
+git@github.com:thanksraye/show.git
